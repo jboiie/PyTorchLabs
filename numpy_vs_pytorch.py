@@ -12,6 +12,10 @@ convertToNumpy = tensor.numpy()
 print(t1)
 print(convertToNumpy)
 
+print(t1+1)
+
+print(convertToNumpy * 2)
+
 
 if torch.cuda.is_available():
     tensor_gpu = tensor.to('cuda')
@@ -19,6 +23,12 @@ if torch.cuda.is_available():
 else:
     print("cuda not available")
 
+print(t1.dtype)
+print(t1.device)
+print(t1.shape)
 
+print(convertToNumpy.dtype)
+print(convertToNumpy.device)
+print(convertToNumpy.shape)
 
 ## tensor and arrays are the same, its just that pytorch tensors can be put on gpus
