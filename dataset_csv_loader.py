@@ -5,8 +5,8 @@ import pandas as pd
 class StudentCSVLoader(Dataset):
     def __init__(self, csv_path):
         self.data = pd.read_csv(csv_path)
-        self.feature_cols = ["Age", "StudyHours", "Marks"]
-        self.data["Label"] = self.data["Passed"].map({"Yes": 1, "No": 0})
+        self.feature_cols = ["Age", "StudyHours", "Marks"] #selective columns
+        self.data["Label"] = self.data["Passed"].map({"Yes": 1, "No": 0}) # passed columns into numeric labels
     def __len__(self):
         return len(self.data)
     def __getitem__(self, idx):
