@@ -19,3 +19,7 @@ def tensor_examples():
 
 if __name__ == "__main__":
     tensor_examples() #safe entry point only run def fxn if main is run
+
+
+## to save this file we write 
+## python-m tensor_basics.py > tensor_results.txt

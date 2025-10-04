@@ -1,6 +1,6 @@
 import torch
 
-def operations():
+def math_operations():
     x = torch.tensor([[1,2], [3,4]], dtype=torch.float32)
     y = torch.tensor([[5,6], [7,8]], dtype=torch.float32)
 
@@ -14,4 +14,4 @@ def operations():
 
 
 if __name__ == "__main__":
-    operations()   
+    math_operationsoperations()   
