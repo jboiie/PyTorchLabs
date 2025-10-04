@@ -6,7 +6,7 @@ def tensor_examples():
     print('torch tensor from list: \n', t1) #torch tensor from given list
 
     arr = np.array([[5,6], [7,8]])
-    t2 = torch.from_numpy(arr)
+    t2 = torch.from_numpy(arr) # converts np array to pytorch tensor. 
     print('tensor from numpy: \n', t2) #torch tensor from np array
 
     print('zeros:', torch.zeros(2,3))

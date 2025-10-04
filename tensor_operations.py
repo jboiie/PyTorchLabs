@@ -14,4 +14,4 @@ def math_operations():
 
 
 if __name__ == "__main__":
-    math_operationsoperations()   
+    math_operations()   
