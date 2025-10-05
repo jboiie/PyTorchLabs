@@ -1,7 +1,6 @@
 # PyTorchLabs
 
-my hands-on PyTorch learning journey!  
-This repository contains code, projects, and notes for each key module as I master PyTorch through practical experiments.
+this is my attempt at learning pytorch without following/doing a course online cus i cant be bothered to watch those boring as* videos tbvh. Asked Ai to make me a structured roadmap at mastering pytorch, feel free to use the same for yourself if you want. Im combining Perplexity and Youtube tutorials for learning each module here and yeah so far so good.
 
 ---
 
