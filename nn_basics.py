@@ -71,4 +71,8 @@ for i in range(epochs):
     optimizer.zero_grad()
     loss.backward()
     optimizer.step()
-    
+
+plt.plot(range(epochs), losses)
+plt.ylabel("loss/error")
+plt.xlabel("epochs")
+plt.show()
