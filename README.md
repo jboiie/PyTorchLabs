@@ -36,4 +36,9 @@ this is my attempt at learning pytorch without following/doing a course online c
 
 ---
 
-yt tut: (https://youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1&si=pefiN5IYysFMz9CF)
+yt tuts 
+-    : (https://youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1&si=pefiN5IYysFMz9CF)
+-    : (https://youtu.be/E0Hmnixke2g?si=JSCzUPMgb_6V1Gk0)
+-    : (https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=QJRNRaGpMcxkJGW7)
+-    : (https://youtu.be/jGwO_UgTS7I?si=lT_aTz07rzhQoVD_)
+-    : (https://youtu.be/Xpr8D6LeAtw?si=sLQUwCwwuAXZ3NLL)
