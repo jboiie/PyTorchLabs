@@ -1,6 +1,6 @@
 # PyTorchLabs
 
-this is my attempt at learning pytorch without following/doing a course online cus i cant be bothered to watch those boring as* videos tbvh. Asked Ai to make me a structured roadmap at mastering pytorch, feel free to use the same for yourself if you want. Im combining Perplexity and Youtube tutorials(https://youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1&si=pefiN5IYysFMz9CF) for learning each module here and yeah so far so good.
+this is my attempt at learning pytorch without following/doing a course online cus i cant be bothered to watch those boring as* videos tbvh. Asked Ai to make me a structured roadmap at mastering pytorch, feel free to use the same for yourself if you want. Im combining Perplexity and Youtube tutorials for learning each module here and yeah so far so good.
 
 ---
 
@@ -32,3 +32,8 @@ this is my attempt at learning pytorch without following/doing a course online c
 - [  ] 24. Deployment (serving models via APIs)
 - [  ] 25. PyTorch Lightning or HuggingFace for large-scale training
 - [  ] 26. Deep learning areas: NLP, RL, GANs, etc.
+
+
+---
+
+yt tut: (https://youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1&si=pefiN5IYysFMz9CF)
