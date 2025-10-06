@@ -15,7 +15,7 @@ this is my attempt at learning pytorch without following/doing a course online c
 - [✅] 7. Defining and Training a Simple Feedforward Neural Network in PyTorch
 - [✅] 8. What is Loss Function in Machine Learning? (focus: PyTorch Loss Functions)
 - [✅] 9. Setting up Optimizer in PyTorch (e.g., SGD, Adam)
-- [  ] 10. Training and Validation Loops in PyTorch
+- [✅] 10. Training and Validation Loops in PyTorch
 - [  ] 11. Evaluating Model Accuracy and Metrics in PyTorch
 - [  ] 12. Saving and Loading PyTorch Models
 - [  ] 13. PyTorch Convolutional Neural Networks (CNNs) Tutorial
