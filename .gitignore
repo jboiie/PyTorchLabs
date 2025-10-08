@@ -4,3 +4,4 @@
 *.json 
 *.sqlite
 *C:\Programming\Projects\Learn\pytorch\archive\database.sqlite
+*.pt
