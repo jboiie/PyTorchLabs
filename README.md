@@ -29,8 +29,8 @@ this is my attempt at learning pytorch without following/doing a course online c
 - [  ] 21. Building custom layers or activation functions
 - [  ] 22. Multi-GPU/model parallelism for huge models
 - [  ] 23. Advanced optimization tricks (learning rate schedulers, ensemble techniques)
-- [  ] 24. Deployment (serving models via APIs)
-- [  ] 25. PyTorch Lightning or HuggingFace for large-scale training
+- [✅] 24. Deployment (serving models via APIs)
+- [✅] 25. PyTorch Lightning or HuggingFace for large-scale training
 - [  ] 26. Deep learning areas: NLP, RL, GANs, etc.
 
 
