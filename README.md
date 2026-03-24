@@ -24,14 +24,14 @@ this is my attempt at learning pytorch without following/doing a course online c
 - [✅] 16. PyTorch on GPU (cuda): Moving Tensors and Models
 - [✅] 17. Basic Debugging Tips for PyTorch Errors
 - [✅] 18. Visualizing Model Predictions and Loss Curves with Matplotlib
-- [  ] 19. Fine-Tuning and Hyperparameter Tuning in PyTorch
-- [  ] 20. Next Steps: Explore RNNs, Transformers, or GANs in PyTorch
-- [  ] 21. Building custom layers or activation functions
-- [  ] 22. Multi-GPU/model parallelism for huge models
-- [  ] 23. Advanced optimization tricks (learning rate schedulers, ensemble techniques)
+- [✅] 19. Fine-Tuning and Hyperparameter Tuning in PyTorch
+- [✅] 20. Next Steps: Explore RNNs, Transformers, or GANs in PyTorch
+- [✅] 21. Building custom layers or activation functions
+- [✅] 22. Multi-GPU/model parallelism for huge models
+- [✅] 23. Advanced optimization tricks (learning rate schedulers, ensemble techniques)
 - [✅] 24. Deployment (serving models via APIs)
 - [✅] 25. PyTorch Lightning or HuggingFace for large-scale training
-- [  ] 26. Deep learning areas: NLP, RL, GANs, etc.
+- [✅] 26. Deep learning areas: NLP, RL, GANs, etc.
 
 
 ---
